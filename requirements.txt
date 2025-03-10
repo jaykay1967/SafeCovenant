@@ -1,5 +1,5 @@
 numpy
 voila
 ipywidgets
-mathplotlib==3.10.0
+matplotlib==3.10.0
 mpl_toolkits
