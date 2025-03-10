@@ -2,4 +2,3 @@ numpy
 voila
 ipywidgets
 matplotlib==3.10.0
-mpl_toolkits
