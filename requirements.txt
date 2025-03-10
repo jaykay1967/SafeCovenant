@@ -1,4 +1,4 @@
-mumpy
+numpy
 voila
 ipywidgets
 mathplotlib
