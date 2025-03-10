@@ -1,3 +1,5 @@
+mumpy
 voila
 ipywidgets
 mathplotlib
+mpl_toolkits
